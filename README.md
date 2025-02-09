@@ -28,7 +28,6 @@ https://chat-frontend-test.netlify.app/
 ### Prerequisites
 - Node.js (v14 or higher)
 - npm or yarn
-- A modern web browser
 
 ### Installation
 
