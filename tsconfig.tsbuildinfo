@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/mobilesidebar.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/chatmessage.tsx","./src/components/emojipicker.tsx","./src/components/messageinput.tsx","./src/components/participantslist.tsx","./src/components/themeselector.tsx","./src/contexts/theme-context.tsx"],"version":"5.7.3"}
