@@ -1,5 +1,5 @@
 
-# Chat Applications
+# Chat Application
 
 
 ## Live App
